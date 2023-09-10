@@ -6,7 +6,6 @@ const CartWidget = () => {
             <img src={cart} alt='Cart Widget'/>
             <span id="cantProdsCarrito">0</span>
         </div>
-        
     )
 }
 
